@@ -1,6 +1,6 @@
 import { DiscordSDK } from "@discord/embedded-app-sdk";
 
-const client_id = ""
+const client_id = "1375412390941692015"
 
 // DiscordSDKのインスタンスを生成
 const discordSdk = new DiscordSDK(client_id);
