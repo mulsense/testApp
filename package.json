@@ -1,0 +1,12 @@
+{
+  "name": "testapp",
+  "main": "index.js",
+  "dependencies": {
+    "@discord/embedded-app-sdk": "^2.0.0",
+    "express": "^5.1.0",
+    "webpack": "^5.99.9"
+  },
+  "devDependencies": {
+    "webpack-cli": "^6.0.1"
+  }
+}
